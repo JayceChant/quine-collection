@@ -1,0 +1,1 @@
+s='s=%a;print(s%%s)';print(s%s)
