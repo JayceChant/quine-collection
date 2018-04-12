@@ -12,8 +12,10 @@ This is a toy project that I collect quines in various languages.
 
 Criteria:
 
-* as short as possible
-* instructive
+* NOT NULL
 * REPL(toplevel) is NOT required
+* as short as possible
+* less feature imported
+* instructive
 * ...
-* I don't know, may I like it
+* I don't know, anything fun
